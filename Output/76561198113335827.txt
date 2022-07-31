@@ -1,0 +1,56 @@
+Profile: 76561198113335827
+┌────────────────────────────────────────────────────────┬───────────┐
+│Game                                                    │ Price     │
+├────────────────────────────────────────────────────────┼───────────┤
+│Ghost of a Tale                                         │R$ 47.49   │
+│DARK SOULS™ III - Season Pass                           │R$ 99.90   │
+│GTFO                                                    │R$ 74.99   │
+│For The King                                            │R$ 11.39   │
+│Dying Light 2 Stay Human                                │R$ 249.00  │
+│DARK SOULS™: REMASTERED                                 │R$ 129.90  │
+│Monster Hunter: World                                   │R$ 69.99   │
+│Outward Definitive Edition                              │R$ 119.00  │
+│Tribes of Midgard                                       │R$ 39.99   │
+│Tunche                                                  │R$ 37.99   │
+│The Survivalists                                        │R$ 59.90   │
+│Shores Unknown                                          │R$ 37.99   │
+│Volcanoids                                              │R$ 37.99   │
+│Eastward                                                │R$ 47.99   │
+│SUCCUBUS                                                │R$ 36.56   │
+│Chernobylite                                            │R$ 75.00   │
+│MY HERO ONE'S JUSTICE 2                                 │R$ 159.90  │
+│My Time at Sandrock                                     │R$ 47.99   │
+│Baldur's Gate 3                                         │R$ 199.99  │
+│Inscryption                                             │R$ 49.99   │
+│Red Dead Redemption 2                                   │R$ 119.50  │
+│Breakwaters                                             │R$ 37.99   │
+│UnMetal                                                 │R$ 35.75   │
+│Potion Craft: Alchemist Simulator                       │R$ 28.99   │
+│Gunfire Reborn                                          │R$ 47.99   │
+│ELDEN RING                                              │R$ 249.90  │
+│DEATHLOOP                                               │R$ 249.95  │
+│Days Gone                                               │R$ 199.90  │
+│Monster Hunter Stories 2: Wings of Ruin                 │R$ 179.99  │
+│The Planet Crafter                                      │R$ 37.99   │
+│Tiny Tina's Wonderlands                                 │R$ 299.90  │
+│We Were Here Forever                                    │R$ 34.99   │
+│Warhammer 40,000: Darktide                              │R$ 169.95  │
+│Night of the Dead                                       │R$ 47.49   │
+│Persona® 5 Strikers                                     │R$ 299.90  │
+│Observer: System Redux                                  │R$ 57.99   │
+│Webbed                                                  │R$ 20.69   │
+│Viscerafest                                             │R$ 32.99   │
+│Road 96 🛣️                                              │R$ 49.96   │
+│No Place Like Home                                      │R$ 37.99   │
+│Ghostwire: Tokyo                                        │R$ 209.00  │
+│Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles │R$ 299.99  │
+│The Pathless                                            │R$ 82.99   │
+│God of War                                              │R$ 199.90  │
+│V Rising                                                │R$ 37.99   │
+│Never Return                                            │R$ 36.00   │
+│Core Keeper                                             │R$ 26.89   │
+│The Elder Scrolls V: Skyrim Anniversary Upgrade         │R$ 79.00   │
+│Marvel’s Spider-Man Remastered                          │R$ 249.90  │
+├────────────────────────────────────────────────────────┼───────────┤
+│Total                                                   │R$ 5094.4  │
+└────────────────────────────────────────────────────────┴───────────┘
