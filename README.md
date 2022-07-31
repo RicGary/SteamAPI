@@ -5,6 +5,8 @@
   <img src="https://user-images.githubusercontent.com/81690594/182040107-a3e2fb12-8bb3-4eaf-ad6f-387a4b5e4685.gif" alt="animated" />
 </p>
 
+<h4 align="center">Animation by: Unknown</h4>
+
 ---
 ## How to use ? 🤖
 ### Note that I'm talking about main.py, but in the future I'll be uploading more content 
