@@ -1,3 +1,7 @@
+<p align="center">
+  ![3Zbx](https://user-images.githubusercontent.com/81690594/182040107-a3e2fb12-8bb3-4eaf-ad6f-387a4b5e4685.gif)
+</p>
+
 <h1 align="center"> Welcome to MyWishlist! </h1>
 <h4 align="center">By: Eric Naiber</h4>
 
