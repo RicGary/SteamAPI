@@ -110,7 +110,7 @@ def OutputData(data, wishSum, name):
 
 
 if __name__ == '__main__':
-    urlTest = 'https://steamcommunity.com/profiles/76561198113335827/'
+    urlTest = 'https://steamcommunity.com/id/jvoli/'
     ID = UserID(urlTest)
     WishURL = WishlistPage(ID)
     Prices = WishPrices(WishURL)
