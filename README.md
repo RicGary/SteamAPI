@@ -24,5 +24,5 @@ isn't performance, but if you have something to share feel free to do so.
 
 ## What can I expect in the future? 🐷
 
-I'm pretending to run a SQL with the games on my wishlist. Updating the price and show the lowest price
+I'm intending to run a SQL with the games on my wishlist. Updating the price and show the lowest price
 ever registered.
