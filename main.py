@@ -2,7 +2,7 @@ import pandas as pd
 from Wishlist import UserID, WishlistPage, WishPrices, WishlistSum, OutputData
 from time import sleep
 
-print('Exemple:')
+print('Example:')
 print('https://steamcommunity.com/profiles/76561198113335827/')
 print('or')
 print('https://steamcommunity.com/id/yourNameHere/')
