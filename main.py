@@ -1,5 +1,5 @@
 import pandas as pd
-from Wishlist import UserID, WishlistPage, WishPrices, WishlistSum, OutputData
+from Wishlist import userID, wishlistPage, wishPrices, wishlistSum, outputData
 from time import sleep
 
 print('Exemple:')
@@ -9,11 +9,11 @@ print('https://steamcommunity.com/id/yourNameHere/')
 
 urlTest = input('Paste your steam URL here: ')
 
-ID = UserID(urlTest)
-WishURL = WishlistPage(ID)
-Prices = WishPrices(WishURL)
-SumPrices = WishlistSum(Prices)
-OutputData(Prices, SumPrices, ID[1])
+ID = userID(urlTest)
+WishURL = wishlistPage(ID)
+Prices = wishPrices(WishURL)
+SumPrices = wishlistSum(Prices)
+outputData(Prices, SumPrices, ID[1])
 
 print()
 print('Check Output dir for more info')

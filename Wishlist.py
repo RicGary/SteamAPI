@@ -1,4 +1,4 @@
-def UserID(url):
+def userID(url):
     """
     Transforms your steam community url into ID code.
 
@@ -16,7 +16,7 @@ def UserID(url):
     return ID[-3], ID[-2]
 
 
-def WishlistPage(id):
+def wishlistPage(id):
     """
     Take your ID and put on wishlist page.
 
@@ -33,7 +33,7 @@ def WishlistPage(id):
     return f'https://store.steampowered.com/wishlist/{id[0]}/{id[1]}/#sort=price'
 
 
-def WishPrices(wishlistUrl):
+def wishPrices(wishlistUrl):
     """
     Transforms something into a zipped list of (game, price)
 
@@ -76,7 +76,7 @@ def WishPrices(wishlistUrl):
         exit()
 
 
-def WishlistSum(data):
+def wishlistSum(data):
     """ Converts into dataframe and sum the Price column """
     import pandas as pd
 
@@ -86,7 +86,7 @@ def WishlistSum(data):
     return round(df['Price'].sum(), 2)
 
 
-def OutputData(data, wishSum, name):
+def outputData(data, wishSum, name):
     """
     Makes a beauty txt
 
@@ -120,8 +120,8 @@ def OutputData(data, wishSum, name):
 
 if __name__ == '__main__':
     urlTest = 'https://steamcommunity.com/id/jvoli/'
-    ID = UserID(urlTest)
-    WishURL = WishlistPage(ID)
-    Prices = WishPrices(WishURL)
-    SumPrices = WishlistSum(Prices)
-    OutputData(Prices, SumPrices, ID[1])
+    ID = userID(urlTest)
+    WishURL = wishlistPage(ID)
+    Prices = wishPrices(WishURL)
+    SumPrices = wishlistSum(Prices)
+    outputData(Prices, SumPrices, ID[1])
