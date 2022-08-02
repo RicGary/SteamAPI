@@ -26,3 +26,9 @@ isn't performance, but if you have something to share feel free to do so.
 
 I'm intending to run a SQL with the games on my wishlist. Updating the price and show the lowest price
 ever registered.
+
+Here is how the DB will look like (any suggestions, please feel free to do it so).
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81690594/182437139-3e656311-27cc-43ce-82bc-669b88a91923.png"/>
+</p>
